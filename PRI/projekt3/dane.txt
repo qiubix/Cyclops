@@ -1,0 +1,50 @@
+Przedmiot numer (5):
+Nazwa: Przedmiot1
+Kod: P1
+JD: 1
+ECTS: 2
+JK: 3
+Prowadzacy: Prowadzacy
+Klasa: A
+Opis: Opis
+
+Przedmiot numer (5):
+Nazwa: Przedmiot3
+Kod: P3
+JD: 2
+ECTS: 3
+JK: 4
+Prowadzacy: Prowadz
+Klasa: A
+Opis: Opis
+
+Przedmiot numer (5):
+Nazwa: Przedmiot5
+Kod: P5
+JD: 3
+ECTS: 2
+JK: 3
+Prowadzacy: Prowadzacy
+Klasa: A
+Opis: opis
+
+Przedmiot numer (5):
+Nazwa: Przedmiot2
+Kod: P2
+JD: 4
+ECTS: 3
+JK: 4
+Prowadzacy: Prow
+Klasa: A
+Opis: Opis
+
+Przedmiot numer (5):
+Nazwa: Przedmiot4
+Kod: P4
+JD: 5
+ECTS: 4
+JK: 3
+Prowadzacy: Prowadzacy
+Klasa: A
+Opis: Op
+

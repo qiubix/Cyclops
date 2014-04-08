@@ -1,0 +1,51 @@
+CGFLAGS=-g -Wall -pedantic
+
+all: main menu obsluga sort wczytaj
+
+main: main.o aux.o
+	gcc main.o aux.o -o main
+
+main.o: main.c
+	gcc $(CGFLAGS) main.c -o main.o
+
+aux.o: aux.c
+	gcc -c aux.c -o aux.o
+	
+menu: menu.o aux.o
+	gcc menu.o aux.o -o menu
+
+menu.o: menu.c
+	gcc $(CGFLAGS) menu.c -o menu.o
+
+aux.o: aux.c
+	gcc -c aux.c -o aux.o
+	
+obsluga: obsluga.o aux.o
+	gcc obsluga.o aux.o -o obsluga
+
+obsluga.o: obsluga.c
+	gcc $(CGFLAGS) obsluga.c -o obsluga.o
+
+aux.o: aux.c
+	gcc -c aux.c -o aux.o
+	
+sort: sort.o aux.o
+	gcc sort.o aux.o -o sort
+
+sort.o: sort.c
+	gcc $(CGFLAGS) sort.c -o sort.o
+
+aux.o: aux.c
+	gcc -c aux.c -o aux.o
+	
+wczytaj: wczytaj.o aux.o
+	gcc wczytaj.o aux.o -o wczytaj
+
+wczytaj.o: wczytaj.c
+	gcc $(CGFLAGS) wczytaj.c -o wczytaj.o
+
+aux.o: aux.c
+	gcc -c aux.c -o aux.o
+	
+clean:
+	rm -f main.o menu.o obsluga.o sort.o wczytaj.o

@@ -1,0 +1,22 @@
+Nazwa               Kod    JD ECTS JK PROWADZACY          KLASA OPIS                
+
+analiza
+            KOD
+     1    2  3
+                   p                     row
+
+k
+                  opis
+    1    2  3geografia
+          G                      EO
+
+2
+                  3
+       4    2  3Wiesio
+             A                        
+
+opis geogr
+         3
+       4    2  3Wiesio
+             ÿ                        
+

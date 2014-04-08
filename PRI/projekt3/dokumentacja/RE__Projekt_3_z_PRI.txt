@@ -1,0 +1,28 @@
+Witam,
+
+Poni¿ej trzecie zadanie projektowe:
+
+Projekt 3.13
+Napisaæ program - mini bazê danych przedmiotów na WEiTI:
+1.	Pola w rekordzie: liczba JD, ECTS, JK, nazwa i kod przedmiotu, osoba prowadz±ca, krótki opis przedmiotu, klasa przedmiotu (dla u³atwienia przyj±æ piêæ rodzajów oznaczonych literami A, B, C, D, E)
+2.	Mo¿liwo¶æ dodawania, usuwania i edycji rekordów
+3.	Mo¿liwo¶æ sortowania przedmiotów po dowolnym polu (poza opisem)
+4.	Mo¿liwo¶æ wy¶wietlania zawarto¶ci danej klasy
+5.	Program powinien dzia³aæ na strukturach dynamicznych
+6.	Mo¿liwo¶æ zapisu i odczytu bazy danych do/z pliku
+7.	Program nale¿y podzieliæ na funkcje i kompilowaæ przy u¿yciu pliku makefile
+
+Pozdrawiam,
+Stanis³aw Stopiñski
+
+-----Original Message-----
+From: K.Katerzawa@stud.elka.pw.edu.pl [mailto:K.Katerzawa@stud.elka.pw.edu.pl] 
+Sent: Monday, December 27, 2010 12:35 PM
+To: Stopinski, S.T.
+Subject: Projekt 3 z PRI
+
+Nie otrzyma³em jeszcze tre¶ci 3. projektu z programowania i by³bym bardzo
+wdziêczny, je¶li móg³by Pan mi go przes³aæ, ¿ebym zd±¿y³ go zrobiæ.
+
+Z wyrazami szacunku,
+Karol Kater¿awa
