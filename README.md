@@ -1,9 +1,4 @@
-Learning
-========
+Learning C
+==========
 
-Miniprojects in different languages. 
-
-------------------------------------
-PRI
-PROI
-AISDI
+Small projects for basic programming in C class. 
