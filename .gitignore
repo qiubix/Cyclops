@@ -20,6 +20,7 @@
 *.out
 *.app
 program
+test*
 
 # Archives
 *.zip
