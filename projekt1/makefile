@@ -8,3 +8,6 @@ test2: funkcja_power_test2.c
 
 test3: potegowanie.c
 		gcc potegowanie.c -o test3
+
+clean: 
+	rm test*
