@@ -48,5 +48,4 @@ int main()
             printf("Koniec petli nr %d\n",i);
             }
     printf("Srednia to: %lf\n",mean);
-    system("pause");
     }

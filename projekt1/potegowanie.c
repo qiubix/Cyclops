@@ -42,5 +42,4 @@ int main()
             x_y = power(mean);      
             }
     printf("Srednia to: %lf\n",mean);
-    system("pause");
     }

@@ -47,9 +47,6 @@ int main()
             }
     printf("Srednia to: %lf\n",mean);
     
-    system("pause");
-    
-    
     
     }
 
